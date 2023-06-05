@@ -1,0 +1,97 @@
+.red{
+    background-color: red;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.green{
+    background-color: green;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.yellow{
+    background-color: yellow;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: rgb(168, 110, 110);
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.blue{
+    background-color: blue;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.aqua{
+    background-color: aqua;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.pink{
+    background-color: rgb(255, 0, 191);
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.black{
+    background-color: black;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.peru{
+    background-color: peru;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.orange{
+    background-color:  orange;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.indigo{
+    background-color:  indigo;
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
